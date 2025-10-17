@@ -19,8 +19,7 @@ from pathlib import Path
 
 # LOGGING SETUP
 logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
 
@@ -72,7 +71,7 @@ def fetch_traffic_data():
 
     try:
         feed = gtfs_realtime_pb2.FeedMessage()  # type: ignore
-        feed.ParseFromString(r.content) # type: ignore
+        feed.ParseFromString(r.content)  # type: ignore
     except Exception as e:
         logger.error(f"❌ Failed to parse protobuf: {e}")
         sys.exit(1)
@@ -93,7 +92,7 @@ def process_vehicles(entities):
 
     for entity in entities:
         v = entity.vehicle
-        
+
         # Validate required fields
         if not v.HasField("position") or not v.HasField("timestamp"):
             skipped += 1
@@ -184,11 +183,11 @@ def save_pollution_summary(df):
             "PM2.5_total_g": round(total_pollutants["PM2.5"], 2),
             "CO2_total_g": round(total_pollutants["CO2"], 2),
         }
-        
+
         file_exists = Path(OUT_POLLUTION_SUMMARY).exists()
         mode = "a" if file_exists else "w"
         write_header = not file_exists
-        
+
         pd.DataFrame([summary]).to_csv(
             OUT_POLLUTION_SUMMARY, mode=mode, header=write_header, index=False
         )
