@@ -1,0 +1,69 @@
+facility_id,facility_name,facility_type,cluster_name,latitude,longitude,timestamp,is_operational,SO2,NOx,PM10,PM2.5,CO
+IND01001,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.515361,77.252657,2025-12-12T15:54:36.243551+00:00,No,55.65,83.48,37.1,23.19,18.55
+IND01001,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.515361,77.252657,2025-12-12T09:54:36.243551+00:00,No,68.98,103.47,45.99,28.74,22.99
+IND01001,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.515361,77.252657,2025-12-12T03:54:36.243551+00:00,No,41.6,62.4,27.73,17.33,13.87
+IND01001,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.515361,77.252657,2025-12-11T21:54:36.243551+00:00,No,77.11,115.66,51.41,32.13,25.7
+IND01002,Chemical Plant-Okhla Industrial Area,Chemical Plant,Okhla Industrial Area,28.518305,77.25481,2025-12-12T15:54:36.243551+00:00,Yes,816.74,1225.11,510.46,306.28,612.55
+IND01002,Chemical Plant-Okhla Industrial Area,Chemical Plant,Okhla Industrial Area,28.518305,77.25481,2025-12-12T09:54:36.243551+00:00,Yes,948.77,1423.16,592.98,355.79,711.58
+IND01002,Chemical Plant-Okhla Industrial Area,Chemical Plant,Okhla Industrial Area,28.518305,77.25481,2025-12-12T03:54:36.243551+00:00,Yes,1016.4,1524.6,635.25,381.15,762.3
+IND01002,Chemical Plant-Okhla Industrial Area,Chemical Plant,Okhla Industrial Area,28.518305,77.25481,2025-12-11T21:54:36.243551+00:00,Yes,969.97,1454.95,606.23,363.74,727.48
+IND01003,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.516715,77.253838,2025-12-12T15:54:36.243551+00:00,Yes,487.74,731.61,325.16,203.22,162.58
+IND01003,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.516715,77.253838,2025-12-12T09:54:36.243551+00:00,Yes,334.54,501.8,223.02,139.39,111.51
+IND01003,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.516715,77.253838,2025-12-12T03:54:36.243551+00:00,Yes,850.34,1275.5,566.89,354.31,283.45
+IND01003,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.516715,77.253838,2025-12-11T21:54:36.243551+00:00,Yes,455.58,683.38,303.72,189.83,151.86
+IND01004,Food Processing-Okhla Industrial Area,Food Processing,Okhla Industrial Area,28.514581,77.25829,2025-12-12T15:54:36.243551+00:00,Yes,56.8,85.2,113.6,56.8,28.4
+IND01004,Food Processing-Okhla Industrial Area,Food Processing,Okhla Industrial Area,28.514581,77.25829,2025-12-12T09:54:36.243551+00:00,Yes,92.64,138.96,185.28,92.64,46.32
+IND01004,Food Processing-Okhla Industrial Area,Food Processing,Okhla Industrial Area,28.514581,77.25829,2025-12-12T03:54:36.243551+00:00,Yes,125.7,188.55,251.4,125.7,62.85
+IND01004,Food Processing-Okhla Industrial Area,Food Processing,Okhla Industrial Area,28.514581,77.25829,2025-12-11T21:54:36.243551+00:00,Yes,121.39,182.09,242.79,121.39,60.7
+IND01005,Paper Mill-Mundka Industrial Area,Paper Mill,Mundka Industrial Area,28.665211,77.040441,2025-12-12T15:54:36.243551+00:00,Yes,303.78,455.67,202.52,126.58,101.26
+IND01005,Paper Mill-Mundka Industrial Area,Paper Mill,Mundka Industrial Area,28.665211,77.040441,2025-12-12T09:54:36.243551+00:00,Yes,333.77,500.65,222.51,139.07,111.26
+IND01005,Paper Mill-Mundka Industrial Area,Paper Mill,Mundka Industrial Area,28.665211,77.040441,2025-12-12T03:54:36.243551+00:00,Yes,821.8,1232.71,547.87,342.42,273.93
+IND01005,Paper Mill-Mundka Industrial Area,Paper Mill,Mundka Industrial Area,28.665211,77.040441,2025-12-11T21:54:36.243551+00:00,Yes,808.85,1213.27,539.23,337.02,269.62
+IND01006,Cement Plant-Mundka Industrial Area,Cement Plant,Mundka Industrial Area,28.667726,77.051761,2025-12-12T15:54:36.243551+00:00,Yes,1209.71,1612.95,2016.18,1209.71,241.94
+IND01006,Cement Plant-Mundka Industrial Area,Cement Plant,Mundka Industrial Area,28.667726,77.051761,2025-12-12T09:54:36.243551+00:00,Yes,1760.68,2347.57,2934.46,1760.68,352.14
+IND01006,Cement Plant-Mundka Industrial Area,Cement Plant,Mundka Industrial Area,28.667726,77.051761,2025-12-12T03:54:36.243551+00:00,Yes,988.95,1318.6,1648.25,988.95,197.79
+IND01006,Cement Plant-Mundka Industrial Area,Cement Plant,Mundka Industrial Area,28.667726,77.051761,2025-12-11T21:54:36.243551+00:00,Yes,2163.97,2885.29,3606.61,2163.97,432.79
+IND01007,Chemical Plant-Mundka Industrial Area,Chemical Plant,Mundka Industrial Area,28.671749,77.049697,2025-12-12T15:54:36.243551+00:00,Yes,517.12,775.68,323.2,193.92,387.84
+IND01007,Chemical Plant-Mundka Industrial Area,Chemical Plant,Mundka Industrial Area,28.671749,77.049697,2025-12-12T09:54:36.243551+00:00,Yes,1071.61,1607.41,669.76,401.85,803.71
+IND01007,Chemical Plant-Mundka Industrial Area,Chemical Plant,Mundka Industrial Area,28.671749,77.049697,2025-12-12T03:54:36.243551+00:00,Yes,696.1,1044.15,435.06,261.04,522.08
+IND01007,Chemical Plant-Mundka Industrial Area,Chemical Plant,Mundka Industrial Area,28.671749,77.049697,2025-12-11T21:54:36.243551+00:00,Yes,756.7,1135.05,472.94,283.76,567.53
+IND01008,Oil Refinery-Rajghatta Industrial Area,Oil Refinery,Rajghatta Industrial Area,28.700587,77.10149,2025-12-12T15:54:36.243551+00:00,Yes,774.67,1162.01,387.34,258.22,258.22
+IND01008,Oil Refinery-Rajghatta Industrial Area,Oil Refinery,Rajghatta Industrial Area,28.700587,77.10149,2025-12-12T09:54:36.243551+00:00,Yes,846.72,1270.08,423.36,282.24,282.24
+IND01008,Oil Refinery-Rajghatta Industrial Area,Oil Refinery,Rajghatta Industrial Area,28.700587,77.10149,2025-12-12T03:54:36.243551+00:00,Yes,1787.95,2681.93,893.98,595.98,595.98
+IND01008,Oil Refinery-Rajghatta Industrial Area,Oil Refinery,Rajghatta Industrial Area,28.700587,77.10149,2025-12-11T21:54:36.243551+00:00,Yes,949.72,1424.57,474.86,316.57,316.57
+IND01009,Cement Plant-Rajghatta Industrial Area,Cement Plant,Rajghatta Industrial Area,28.710271,77.086345,2025-12-12T15:54:36.243551+00:00,Yes,784.2,1045.6,1307.0,784.2,156.84
+IND01009,Cement Plant-Rajghatta Industrial Area,Cement Plant,Rajghatta Industrial Area,28.710271,77.086345,2025-12-12T09:54:36.243551+00:00,Yes,1090.97,1454.63,1818.28,1090.97,218.19
+IND01009,Cement Plant-Rajghatta Industrial Area,Cement Plant,Rajghatta Industrial Area,28.710271,77.086345,2025-12-12T03:54:36.243551+00:00,Yes,919.69,1226.25,1532.81,919.69,183.94
+IND01009,Cement Plant-Rajghatta Industrial Area,Cement Plant,Rajghatta Industrial Area,28.710271,77.086345,2025-12-11T21:54:36.243551+00:00,Yes,1857.86,2477.15,3096.43,1857.86,371.57
+IND01010,Thermal Power Plant-Rajghatta Industrial Area,Thermal Power Plant,Rajghatta Industrial Area,28.70602,77.090302,2025-12-12T15:54:36.243551+00:00,Yes,2661.91,3194.29,1277.72,851.81,532.38
+IND01010,Thermal Power Plant-Rajghatta Industrial Area,Thermal Power Plant,Rajghatta Industrial Area,28.70602,77.090302,2025-12-12T09:54:36.243551+00:00,Yes,1294.14,1552.96,621.19,414.12,258.83
+IND01010,Thermal Power Plant-Rajghatta Industrial Area,Thermal Power Plant,Rajghatta Industrial Area,28.70602,77.090302,2025-12-12T03:54:36.243551+00:00,Yes,1882.94,2259.52,903.81,602.54,376.59
+IND01010,Thermal Power Plant-Rajghatta Industrial Area,Thermal Power Plant,Rajghatta Industrial Area,28.70602,77.090302,2025-12-11T21:54:36.243551+00:00,Yes,1578.6,1894.32,757.73,505.15,315.72
+IND01011,Chemical Plant-Rajghatta Industrial Area,Chemical Plant,Rajghatta Industrial Area,28.706845,77.094759,2025-12-12T15:54:36.243551+00:00,Yes,498.45,747.67,311.53,186.92,373.84
+IND01011,Chemical Plant-Rajghatta Industrial Area,Chemical Plant,Rajghatta Industrial Area,28.706845,77.094759,2025-12-12T09:54:36.243551+00:00,Yes,744.81,1117.22,465.51,279.3,558.61
+IND01011,Chemical Plant-Rajghatta Industrial Area,Chemical Plant,Rajghatta Industrial Area,28.706845,77.094759,2025-12-12T03:54:36.243551+00:00,Yes,1140.04,1710.06,712.53,427.52,855.03
+IND01011,Chemical Plant-Rajghatta Industrial Area,Chemical Plant,Rajghatta Industrial Area,28.706845,77.094759,2025-12-11T21:54:36.243551+00:00,Yes,403.99,605.99,252.49,151.5,302.99
+IND01012,Paper Mill-Rajghatta Industrial Area,Paper Mill,Rajghatta Industrial Area,28.703367,77.095916,2025-12-12T15:54:36.243551+00:00,Yes,803.11,1204.67,535.41,334.63,267.7
+IND01012,Paper Mill-Rajghatta Industrial Area,Paper Mill,Rajghatta Industrial Area,28.703367,77.095916,2025-12-12T09:54:36.243551+00:00,Yes,554.87,832.31,369.91,231.2,184.96
+IND01012,Paper Mill-Rajghatta Industrial Area,Paper Mill,Rajghatta Industrial Area,28.703367,77.095916,2025-12-12T03:54:36.243551+00:00,Yes,763.99,1145.99,509.33,318.33,254.66
+IND01012,Paper Mill-Rajghatta Industrial Area,Paper Mill,Rajghatta Industrial Area,28.703367,77.095916,2025-12-11T21:54:36.243551+00:00,Yes,770.0,1155.0,513.33,320.83,256.67
+IND01013,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.75411,77.141796,2025-12-12T15:54:36.243551+00:00,Yes,134.19,201.29,268.39,134.19,67.1
+IND01013,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.75411,77.141796,2025-12-12T09:54:36.243551+00:00,Yes,131.0,196.5,262.0,131.0,65.5
+IND01013,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.75411,77.141796,2025-12-12T03:54:36.243551+00:00,Yes,78.2,117.3,156.39,78.2,39.1
+IND01013,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.75411,77.141796,2025-12-11T21:54:36.243551+00:00,Yes,92.17,138.26,184.35,92.17,46.09
+IND01014,Thermal Power Plant-Wazirpur Industrial Area,Thermal Power Plant,Wazirpur Industrial Area,28.751648,77.140014,2025-12-12T15:54:36.243551+00:00,Yes,1921.72,2306.07,922.43,614.95,384.34
+IND01014,Thermal Power Plant-Wazirpur Industrial Area,Thermal Power Plant,Wazirpur Industrial Area,28.751648,77.140014,2025-12-12T09:54:36.243551+00:00,Yes,2651.13,3181.35,1272.54,848.36,530.23
+IND01014,Thermal Power Plant-Wazirpur Industrial Area,Thermal Power Plant,Wazirpur Industrial Area,28.751648,77.140014,2025-12-12T03:54:36.243551+00:00,Yes,3229.04,3874.85,1549.94,1033.29,645.81
+IND01014,Thermal Power Plant-Wazirpur Industrial Area,Thermal Power Plant,Wazirpur Industrial Area,28.751648,77.140014,2025-12-11T21:54:36.243551+00:00,Yes,3550.39,4260.47,1704.19,1136.12,710.08
+IND01015,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.756385,77.139858,2025-12-12T15:54:36.243551+00:00,Yes,121.05,181.57,242.1,121.05,60.52
+IND01015,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.756385,77.139858,2025-12-12T09:54:36.243551+00:00,Yes,94.41,141.62,188.83,94.41,47.21
+IND01015,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.756385,77.139858,2025-12-12T03:54:36.243551+00:00,Yes,51.32,76.98,102.63,51.32,25.66
+IND01015,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.756385,77.139858,2025-12-11T21:54:36.243551+00:00,Yes,137.18,205.76,274.35,137.18,68.59
+IND01016,Steel Plant-Wazirpur Industrial Area,Steel Plant,Wazirpur Industrial Area,28.75516,77.132391,2025-12-12T15:54:36.243551+00:00,Yes,1029.1,1286.37,926.19,514.55,411.64
+IND01016,Steel Plant-Wazirpur Industrial Area,Steel Plant,Wazirpur Industrial Area,28.75516,77.132391,2025-12-12T09:54:36.243551+00:00,Yes,1169.03,1461.29,1052.13,584.52,467.61
+IND01016,Steel Plant-Wazirpur Industrial Area,Steel Plant,Wazirpur Industrial Area,28.75516,77.132391,2025-12-12T03:54:36.243551+00:00,Yes,1285.57,1606.96,1157.01,642.78,514.23
+IND01016,Steel Plant-Wazirpur Industrial Area,Steel Plant,Wazirpur Industrial Area,28.75516,77.132391,2025-12-11T21:54:36.243551+00:00,Yes,2291.67,2864.59,2062.5,1145.84,916.67
+IND01017,Brick Kiln-Wazirpur Industrial Area,Brick Kiln,Wazirpur Industrial Area,28.739288,77.135013,2025-12-12T15:54:36.243551+00:00,Yes,405.23,540.31,1080.62,675.39,202.62
+IND01017,Brick Kiln-Wazirpur Industrial Area,Brick Kiln,Wazirpur Industrial Area,28.739288,77.135013,2025-12-12T09:54:36.243551+00:00,Yes,231.27,308.36,616.72,385.45,115.64
+IND01017,Brick Kiln-Wazirpur Industrial Area,Brick Kiln,Wazirpur Industrial Area,28.739288,77.135013,2025-12-12T03:54:36.243551+00:00,Yes,274.7,366.27,732.53,457.83,137.35
+IND01017,Brick Kiln-Wazirpur Industrial Area,Brick Kiln,Wazirpur Industrial Area,28.739288,77.135013,2025-12-11T21:54:36.243551+00:00,Yes,190.21,253.62,507.23,317.02,95.11

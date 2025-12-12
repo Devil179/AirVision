@@ -1,0 +1,7 @@
+## 1 month data ##
+Construction data
+User feedback form
+## python gui using tkinter ##
+indsutrial emission data
+sentiment score 
+

@@ -1,0 +1,18 @@
+facility_id,facility_name,facility_type,cluster_name,latitude,longitude,is_operational,registration_date,last_inspection,compliance_status
+IND01001,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.515361,77.252657,No,2018-05-01,2025-03-02,Compliant
+IND01002,Chemical Plant-Okhla Industrial Area,Chemical Plant,Okhla Industrial Area,28.518305,77.25481,Yes,2018-11-01,2025-08-02,Compliant
+IND01003,Paper Mill-Okhla Industrial Area,Paper Mill,Okhla Industrial Area,28.516715,77.253838,Yes,2018-08-01,2025-05-16,Under Review
+IND01004,Food Processing-Okhla Industrial Area,Food Processing,Okhla Industrial Area,28.514581,77.25829,Yes,2018-03-01,2025-08-25,Non-Compliant
+IND01005,Paper Mill-Mundka Industrial Area,Paper Mill,Mundka Industrial Area,28.665211,77.040441,Yes,2018-04-01,2025-06-15,Under Review
+IND01006,Cement Plant-Mundka Industrial Area,Cement Plant,Mundka Industrial Area,28.667726,77.051761,Yes,2018-10-01,2025-10-02,Under Review
+IND01007,Chemical Plant-Mundka Industrial Area,Chemical Plant,Mundka Industrial Area,28.671749,77.049697,Yes,2018-06-01,2025-06-29,Compliant
+IND01008,Oil Refinery-Rajghatta Industrial Area,Oil Refinery,Rajghatta Industrial Area,28.700587,77.10149,Yes,2018-11-01,2025-07-11,Compliant
+IND01009,Cement Plant-Rajghatta Industrial Area,Cement Plant,Rajghatta Industrial Area,28.710271,77.086345,Yes,2018-08-01,2025-01-24,Non-Compliant
+IND01010,Thermal Power Plant-Rajghatta Industrial Area,Thermal Power Plant,Rajghatta Industrial Area,28.70602,77.090302,Yes,2018-08-01,2025-11-15,Non-Compliant
+IND01011,Chemical Plant-Rajghatta Industrial Area,Chemical Plant,Rajghatta Industrial Area,28.706845,77.094759,Yes,2018-04-01,2025-10-12,Non-Compliant
+IND01012,Paper Mill-Rajghatta Industrial Area,Paper Mill,Rajghatta Industrial Area,28.703367,77.095916,Yes,2018-08-01,2025-11-26,Under Review
+IND01013,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.75411,77.141796,Yes,2018-12-01,2025-04-16,Non-Compliant
+IND01014,Thermal Power Plant-Wazirpur Industrial Area,Thermal Power Plant,Wazirpur Industrial Area,28.751648,77.140014,Yes,2018-12-01,2025-08-18,Compliant
+IND01015,Food Processing-Wazirpur Industrial Area,Food Processing,Wazirpur Industrial Area,28.756385,77.139858,Yes,2018-05-01,2025-06-29,Non-Compliant
+IND01016,Steel Plant-Wazirpur Industrial Area,Steel Plant,Wazirpur Industrial Area,28.75516,77.132391,Yes,2018-09-01,2025-02-12,Under Review
+IND01017,Brick Kiln-Wazirpur Industrial Area,Brick Kiln,Wazirpur Industrial Area,28.739288,77.135013,Yes,2018-05-01,2025-08-29,Under Review
